@@ -11,9 +11,9 @@ This is a simple React Native project created using Expo CLI. The main purpose o
   - Increase the font size of the text to 24.
   - Make the name "YourName" bold.
 
-## Screenshot
+## Screenshots
 
-![App Screenshot](MagicApp.jpg)
+![App Screenshot](..\screenshot\MagicApp.jpg)
 
 ## Student ID
 
