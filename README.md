@@ -1,7 +1,5 @@
 # MagicApp
 
-This is a simple React Native project created using Expo CLI. The main purpose of this project is to demonstrate basic React Native functionalities and styling.
-
 ## Task Description
 
 - Create a new React Native blank template project using Expo CLI.
