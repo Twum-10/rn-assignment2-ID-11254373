@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NitroApp",
-    "slug": "NitroApp",
+    "name": "MagicApp",
+    "slug": "MagicApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

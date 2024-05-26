@@ -1,3 +1,5 @@
+# MagicApp
+
 This is a simple React Native project created using Expo CLI. The main purpose of this project is to demonstrate basic React Native functionalities and styling.
 
 ## Task Description
@@ -9,6 +11,9 @@ This is a simple React Native project created using Expo CLI. The main purpose o
   - Increase the font size of the text to 24.
   - Make the name "YourName" bold.
 
+## Screenshot
+
+![App Screenshot](MagicApp.jpg)
 
 ## Student ID
 
