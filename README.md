@@ -13,7 +13,7 @@ This is a simple React Native project created using Expo CLI. The main purpose o
 
 ## Screenshots
 
-![App Screenshot](..\screenshot\MagicApp.jpg)
+![App Screenshot](MagicApp.jpg)
 
 ## Student ID
 
